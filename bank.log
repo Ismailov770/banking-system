@@ -1,0 +1,12 @@
+Oct 29, 2025 6:39:08 PM service.BankService registerClient
+INFO: Registered new client: Alice
+Oct 29, 2025 6:39:08 PM service.BankService registerClient
+INFO: Registered new client: Bob
+Oct 29, 2025 6:39:08 PM service.BankService openAccount
+INFO: Opened account 5475229390 for Alice
+Oct 29, 2025 6:39:08 PM service.BankService openAccount
+INFO: Opened account 4363505669 for Bob
+Oct 29, 2025 6:39:08 PM service.TransactionService transfer
+INFO: Transferred 200.0 from 5475229390 to 4363505669
+Oct 29, 2025 6:39:08 PM service.TransactionService deposit
+INFO: Deposited 300.0 to 4363505669
